@@ -1,0 +1,22 @@
+{
+  "item": {
+    "name": "澄序课程表",
+    "description": "课程腕上抬手看",
+    "preview": ["preview1.png", "preview2.png", "preview3.png", "preview4.png", "preview5.png"],
+    "icon": "logo.png",
+    "source_url": "",
+    "author": [{
+      "name": "Yulimfish",
+      "author_url": "https://www.yuque.com/yulimfish"
+    }, {
+        "name": "nekomiyarinko",
+        "author_url": "https://gitee.com/nekomiyarinko"
+    }]
+  },
+  "downloads": {
+    "n67": {
+      "version": "0.3.0-devver-250716",
+      "file_name": "com.waterflames.clartime.release.0.3.0-devver-250716.rpk"
+    }
+  }
+}
