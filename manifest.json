@@ -2,16 +2,29 @@
   "item": {
     "name": "澄序课程表",
     "description": "课程腕上抬手看 - UI 预览版（连接功能未完成，暂时不可用，仅对外测试 UI 完善程度）",
-    "preview": ["preview1.png", "preview2.png", "preview3.png", "preview4.png", "preview5.png"],
+    "preview": [
+      "preview1.png",
+      "preview2.png",
+      "preview3.png",
+      "preview4.png",
+      "preview5.png"
+    ],
     "icon": "logo.png",
     "source_url": "",
-    "author": [{
-      "name": "Yulimfish",
-      "author_url": "https://www.yuque.com/yulimfish"
-    }, {
+    "author": [
+      {
+        "name": "WaterFlames",
+        "author_url": "http://www.waterflames.cn/"
+      },
+      {
+        "name": "Yulimfish",
+        "author_url": "https://www.yuque.com/yulimfish"
+      },
+      {
         "name": "nekomiyarinko",
         "author_url": "https://gitee.com/nekomiyarinko"
-    }]
+      }
+    ]
   },
   "downloads": {
     "n67": {
