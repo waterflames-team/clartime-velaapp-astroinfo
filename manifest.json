@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "澄序课程表",
-    "description": "课程腕上抬手看 - 首个高度可用「Beta测试」版本｜!!! 安装前请在手环中预留 2.5MB 空间 !!!｜课程数据编辑器未完成，了解最新进度欢迎加入测试群：1042873150",
+    "description": "课程腕上抬手看 - 首个高度可用「Beta测试」版本｜!!! 安装前请在手环中预留 2MB 空间 !!!｜课程数据导入请前往插件商城下载传输插件｜测试交流群：1042873150",
     "preview": [
       "preview1.png",
       "preview2.png",
@@ -28,8 +28,8 @@
   },
   "downloads": {
     "n67": {
-      "version": "0.3.0-Beta",
-      "file_name": "com.waterflames.clartime.release.0.4.0-beta.rpk"
+      "version": "0.4.1-Beta",
+      "file_name": "com.waterflames.clartime.release.0.4.1-beta.rpk"
     }
   }
 }
